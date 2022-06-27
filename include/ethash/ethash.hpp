@@ -17,6 +17,7 @@
 #include <ethash/ethash.h>
 #include <ethash/hash_types.hpp>
 
+#include <string>
 #include <cstdint>
 #include <cstring>
 #include <memory>
